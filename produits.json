@@ -1,4 +1,1 @@
-[
-    {"nom":"PC","description":"ordi","token":"f2c71eaa-2968-4c17-aa0d-074cd822e54b","prix":800,"stock":3,"reference":13241,"created_at":"2022-03-31","updated_at":"2022-03-31"},
-    {"nom":"Dentifrice","description":"menthe","token":"f2c71eaa-2968-4c17-aa0d-074cd822e54c","prix":2,"stock":14,"reference":13221,"created_at":"2022-03-31","updated_at":"2022-03-31"}
-]
+[{"nom":"PC","description":"ordi","token":"f2c71eaa-2968-4c17-aa0d-074cd822e54b","prix":800,"stock":3,"reference":13241,"created_at":"2022-03-31","updated_at":"2022-03-31"},{"nom":"dentifrezf","description":"teest","prix":"teest","stock":"teest","reference":"teest","token":"f2c71eaa-2968-4c17-aa0d-074cd822e54c","created_at":"2022-03-31","updated_at":"2022-03-31T11:51:17.862Z"}]
